@@ -37,11 +37,11 @@
 			<version>5.1.18</version>
 		</dependency>
 
-<!-- 		<dependency>
+ 		<dependency>
 			<groupId>es.upm.fi.dia.oeg.morph</groupId>
 			<artifactId>morph-base</artifactId>
 			<version>1.0-SNAPSHOT</version>
-		</dependency> -->
+		</dependency>
 
 		<dependency>
 			<groupId>zql</groupId>
